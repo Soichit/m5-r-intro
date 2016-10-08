@@ -24,7 +24,6 @@ too.expensive <- total.cost > 1000
 # Create a variable `max.puppies`, which is the nuber of puppies you can afford for $1K.
 max.puppies <- 1000 / puppy.price
 
-print('test')
 print(hometown)
 print(my.name)
 print(my.height)
